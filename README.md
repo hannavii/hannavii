@@ -17,7 +17,7 @@ Unreal Engine을 활용한 게임 시스템 개발과 AI 기반 인터랙티브 
 `React` `TypeScript` `JavaScript`
 
 **Tools**  
-`Git` `GitHub` `VS Code` 'VS'
+`Git` `GitHub` `VS Code` `VS`
 
 ---
 
