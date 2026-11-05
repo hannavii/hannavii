@@ -10,7 +10,7 @@ Unreal Engine을 활용한 게임 시스템 개발과 AI 기반 인터랙티브 
 **Game Development**  
 `Unreal Engine` `C++` `Ren'Py`
 
-**3D & Interactive AI**
+**3D & Interactive AI**  
 `Python` `OpenAI API` `Whisper` `Blender`
 
 **Web Development**  
