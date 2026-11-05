@@ -7,11 +7,11 @@ Unreal Engine을 활용한 게임 시스템 개발과 AI 기반 인터랙티브 
 
 ## 🛠 Tech Stack
 
-**Game Development **  
+**Game Development**  
 `Unreal Engine` `C++` `Ren'Py`
 
 **3D & Interactive AI** 
-`Python` `OpenAI API` `Whisper` `Blender'
+`Python` `OpenAI API` `Whisper` `Blender`
 
 **Web Development**  
 `React` `TypeScript` `JavaScript`
